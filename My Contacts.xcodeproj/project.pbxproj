@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1B97A4332384BD0700B35CAA /* Color.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1B97A4322384BD0700B35CAA /* Color.xcassets */; };
 		D14DD3F6237B3EC800C09174 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D14DD3F5237B3EC800C09174 /* AppDelegate.swift */; };
 		D14DD3F8237B3EC800C09174 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D14DD3F7237B3EC800C09174 /* ViewController.swift */; };
 		D14DD3FB237B3EC800C09174 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D14DD3F9237B3EC800C09174 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1B97A4322384BD0700B35CAA /* Color.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Color.xcassets; sourceTree = "<group>"; };
 		D14DD3F2237B3EC800C09174 /* My Contacts.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "My Contacts.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D14DD3F5237B3EC800C09174 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D14DD3F7237B3EC800C09174 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 				D14DD3F7237B3EC800C09174 /* ViewController.swift */,
 				D14DD3F9237B3EC800C09174 /* Main.storyboard */,
 				D14DD3FC237B3EC900C09174 /* Assets.xcassets */,
+				1B97A4322384BD0700B35CAA /* Color.xcassets */,
 				D14DD3FE237B3EC900C09174 /* LaunchScreen.storyboard */,
 				D14DD401237B3EC900C09174 /* Info.plist */,
 			);
@@ -123,6 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D14DD400237B3EC900C09174 /* LaunchScreen.storyboard in Resources */,
+				1B97A4332384BD0700B35CAA /* Color.xcassets in Resources */,
 				D14DD3FD237B3EC900C09174 /* Assets.xcassets in Resources */,
 				D14DD3FB237B3EC800C09174 /* Main.storyboard in Resources */,
 			);
